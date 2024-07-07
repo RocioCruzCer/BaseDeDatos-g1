@@ -28,8 +28,6 @@ create proc ps_1
 AS
 BEGIN
 
-
-
 DECLARE @n INT
 DECLARE @i INT
 
